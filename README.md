@@ -1,6 +1,6 @@
 # Organização das atividades pendentes, em desenvolvimento e concluídas
 
-O planejamento de atividades está organizado em um quadro [Kanban](https://pt.wikipedia.org/wiki/Kanban) com três colunas:
+O [planejamento de atividades][] está organizado em um quadro [Kanban](https://pt.wikipedia.org/wiki/Kanban) com três colunas:
 
 - Análises e projetos
     - atividades previstas
@@ -10,3 +10,5 @@ O planejamento de atividades está organizado em um quadro [Kanban](https://pt.w
     - Atividades com foco de desenvolvimento atual
 - Análises concluídas
     - Atividades concluídas e arquivadas
+
+[planejamento de atividades]: https://github.com/philsf-biostat/org/projects/1
