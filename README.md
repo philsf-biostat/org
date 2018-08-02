@@ -2,13 +2,13 @@
 
 O [planejamento de atividades][] está organizado em um quadro [Kanban](https://pt.wikipedia.org/wiki/Kanban) com três colunas:
 
-- Análises e projetos
+1. Análises e projetos
     - atividades previstas
     - iniciadas (em estágio de protótipo)
     - não iniciadas
-- Em andamento
+1. Em andamento
     - Atividades com foco de desenvolvimento atual
-- Análises concluídas
+1. Análises concluídas
     - Atividades concluídas e arquivadas
 
 [planejamento de atividades]: https://github.com/philsf-biostat/org/projects/1
