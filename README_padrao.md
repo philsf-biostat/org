@@ -1,42 +1,54 @@
+<!-- Instruções -->
+<!-- - substituir xxx pelo código do relatório -->
+<!-- - substituir aaa, bbb, ccc pelos projetos de análises realizadas -->
+<!-- - v01: substituir mmm01/mmm02 pela milestone -->
+<!-- - v02: substituir ppp01/ppp02 pelo projeto -->
+<!-- - Remover esse bloco -->
+
 # Análise de Dados projeto xxx (Local, aaaa)
 
 título
 
 ## Análises realizadas
 
-1. xxx ([Planejamento][proj-xxx])
-2. yyy ([Planejamento][proj-yyy])
-3. zzz ([Planejamento][proj-zzz])
+1. Análise descritiva ([Planejamento][proj-desc])
+2. Análise inferencial ([Planejamento][proj-inf])
+3. Modelagem ([Planejamento][proj-mod])
 
-[proj-xxx]: https://github.com/philsf-biostat/xxx/projects/xxx
-[proj-yyy]: https://github.com/philsf-biostat/xxx/projects/yyy
-[proj-zzz]: https://github.com/philsf-biostat/xxx/projects/zzz
+[proj-desc]: https://github.com/philsf-biostat/xxx/projects/aaa
+[proj-inf]: https://github.com/philsf-biostat/xxx/projects/bbb
+[proj-mod]: https://github.com/philsf-biostat/xxx/projects/ccc
 
 ## Relatório da análise de dados
 
 [Ver as etapas desta análise][releases].
 
-**Versão 01 - xxx** - [Em elaboração][milestone-prequal].
-
-[Planejamento][v01-project].
-
-- [Visualização online][reportviz-v01]
-- [Download][docx-v01]
-
-<!-- **Versão 02 - Defesa** - [Em elaboração][milestone-posqual]. -->
+<!-- **Versão 02** -- [Em elaboração][milestone-v02]. -->
 
 <!-- [Planejamento][v02-project]. -->
 
 <!-- - [Visualização online][reportviz-v02] -->
 <!-- - Download -->
+<!-- - [Download][pdf-v02] -->
+
+**Versão 01** -- [Em elaboração][milestone-v01].
+
+[Planejamento][v01-project].
+
+- [Visualização online][reportviz-v01]
+- Download
+<!-- - [Download][pdf-v01] -->
+
 
 [releases]: https://github.com/philsf-biostat/xxx/releases/
-[milestone-prequal]: https://github.com/philsf-biostat/xxx/milestone/xxx
+[milestone-v01]: https://github.com/philsf-biostat/xxx/milestone/mmm01
 [reportviz-v01]: report/xxx-v01.md
 [docx-v01]: report/xxx-v01.docx?raw=true
-[v01-project]: https://github.com/philsf-biostat/xxx/projects/xxx
+[pdf-v01]: report/xxx-v01.pdf?raw=true
+[v01-project]: https://github.com/philsf-biostat/xxx/projects/ppp01
 
-<!-- [milestone-posqual]: https://github.com/philsf-biostat/xxx/milestone/xxx -->
-<!-- [reportviz-v02]: report/xxx-v02.md -->
-<!-- [docx-v02]: report/xxx-v02.docx?raw=true -->
-<!-- [v02-project]: https://github.com/philsf-biostat/xxx/projects/xxx -->
+[milestone-v02]: https://github.com/philsf-biostat/xxx/milestone/mmm02
+[reportviz-v02]: report/xxx-v02.md
+[docx-v02]: report/xxx-v02.docx?raw=true
+[pdf-v02]: report/xxx-v02.pdf?raw=true
+[v02-project]: https://github.com/philsf-biostat/xxx/projects/ppp02
