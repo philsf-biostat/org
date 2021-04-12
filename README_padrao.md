@@ -12,8 +12,9 @@ título
 ## Análises realizadas
 
 1. Análise descritiva
-2. Análise inferencial
-3. Modelagem
+1. Análise inferencial
+1. Modelagem
+1. Análise de poder
 
 **SAP** -- Plano de Análises Estatísticas
 
