@@ -11,9 +11,9 @@ título
 
 ## Análises realizadas
 
-1. Análise descritiva ([Planejamento][proj-desc])
-2. Análise inferencial ([Planejamento][proj-inf])
-3. Modelagem ([Planejamento][proj-mod])
+1. Análise descritiva
+2. Análise inferencial
+3. Modelagem
 
 **SAP** -- Plano de Análises Estatísticas
 
@@ -21,9 +21,6 @@ título
 - Download
 <!-- - [Download][sappdf-v01] -->
 
-[proj-desc]: https://github.com/philsf-biostat/xxx/projects/aaa
-[proj-inf]: https://github.com/philsf-biostat/xxx/projects/bbb
-[proj-mod]: https://github.com/philsf-biostat/xxx/projects/ccc
 [sapviz-v01]: report/SAP_xxx-v01.md
 [sappdf-v01]: report/SAP_xxx-v01.pdf?raw=true
 
